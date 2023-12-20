@@ -1,0 +1,114 @@
+Player's name : AlI
+D D S T W S D T W S 
+S W T D S W T S D T 
+D D S T W S D T W S 
+S W T D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D T W S 
+Select coordinate or enter E to end the game :  9 7
+D D S T W S D   W S 
+S W T D S W T   D T 
+D D S T W S D   W S 
+S W T D S W T T D T 
+W D S T D D S S T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D S W S 
+Select coordinate or enter E to end the game :  6 2
+D D S T W S D   W S 
+S W T D S W T   D T 
+D D S T W S D   W S 
+S W T D S W T T D T 
+W D S T D D S S T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D S W S 
+Select coordinate or enter E to end the game :  E
+Play Again?? Y-N : Y
+
+AlI : 40
+Player's name : k1raz
+D D S T W S D T W S 
+S W T D S W T S D T 
+D D S T W S D T W S 
+S W T D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D T W S 
+Select coordinate or enter E to end the game :  8 0
+      T W S D T W S 
+D D S D S W T S D T 
+S W T T W S D T W S 
+D D S D S W T S D T 
+S W T T D D S W T S 
+W D S T W S D T W S 
+D D S D S W T S D T 
+S W S T D D S W T S 
+W D S T W S D T W S 
+D D S T W S D T W S 
+Select coordinate or enter E to end the game :  9 7
+      T W S D   W S 
+D D S D S W T   D T 
+S W T T W S D   W S 
+D D S D S W T T D T 
+S W T T D D S S T S 
+W D S T W S D T W S 
+D D S D S W T S D T 
+S W S T D D S W T S 
+W D S T W S D T W S 
+D D S T W S D S W S 
+Select coordinate or enter E to end the game :  6 2
+      T W S D   W S 
+D D S D S W T   D T 
+S W T T W S D   W S 
+D D S D S W T T D T 
+S W T T D D S S T S 
+W D S T W S D T W S 
+D D S D S W T S D T 
+S W S T D D S W T S 
+W D S T W S D T W S 
+D D S T W S D S W S 
+Select coordinate or enter E to end the game :  E
+Play Again?? Y-N : Y
+
+k1raz : 130
+AlI : 40
+Player's name : John
+D D S T W S D T W S 
+S W T D S W T S D T 
+D D S T W S D T W S 
+S W T D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D T W S 
+Select coordinate or enter E to end the game :  9 7
+D D S T W S D   W S 
+S W T D S W T   D T 
+D D S T W S D   W S 
+S W T D S W T T D T 
+W D S T D D S S T S 
+D D S T W S D T W S 
+S W D D S W T S D T 
+W D S T D D S W T S 
+D D S T W S D T W S 
+D D S T W S D S W S 
+Select coordinate or enter E to end the game :  E
+Play Again?? Y-N : N
+
+k1raz : 130
+AlI : 40
+John : 40
